@@ -2,6 +2,10 @@
 
 -specified for SGK - Vizite Giriş Sistemi ve İş Kazası ve Meslek Hastalığı Bildirimi sistemi
 
+# Documentation (in Turkish)
+
+https://docs.google.com/document/d/1GB0YlGSrwm4aOlOTnS99e78CJJptXDM04VcDlnmzz8c/edit?usp=sharing
+
 ## Requirements
 
 - Docker (Desktop or CLI)
