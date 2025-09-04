@@ -1,5 +1,7 @@
 # Captcha Solver API (Dockerized)
 
+-specified for SGK - Vizite Giriş Sistemi ve İş Kazası ve Meslek Hastalığı Bildirimi sistemi
+
 ## Requirements
 
 - Docker (Desktop or CLI)
