@@ -15,7 +15,7 @@ def fetch_captcha(session):
         exit(1)
     return base64.b64encode(resp.content).decode("utf-8")
 
-def main(n = 10):
+def main(n = 100):
     session = requests.Session()
     session.get(BASE_URL) #set cookies
     

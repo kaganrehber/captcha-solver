@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify
-from solver import solve_captcha
+from app import solve_captcha
 
 app = Flask(__name__)
 
